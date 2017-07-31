@@ -9,7 +9,7 @@ import view.Principal;
 
 /**
  *
- * @author jhond
+ * @author renan
  */
 public class Questionario {
     
