@@ -10,7 +10,7 @@ package model;
  * @author jhond
  */
 public class Pergunta {
-    
+    private int x;
     private int id;
     private String descricao;
     private String comentario;
